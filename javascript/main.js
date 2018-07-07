@@ -233,7 +233,7 @@
       var retina = window.devicePixelRatio > 1 ? true : false;
 
         if(retina) {
-            $('.header .logo').find('img').attr( {src:'./images/logo@2x.png',width:'155',height:'50'} );   
+            $('.header .logo').find('img').attr( {src:'./',width:'155',height:'50'} );   
         }
     }; 
 
