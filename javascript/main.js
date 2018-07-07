@@ -323,7 +323,9 @@
                     }
                 },
                 getlatlng:{
-                    address:  "Thành phố New York, Tiểu bang New York",
+                    // address:  "Thành phố New York, Tiểu bang New York",
+                    address:"kandy",
+                 
                     callback: function(results) {
                         if ( !results ) return;
                         $(this).gmap3('get').setCenter(new google.maps.LatLng(results[0].geometry.location.lat(), results[0].geometry.location.lng()));
@@ -331,7 +333,7 @@
                             marker:{
                                 latLng:results[0].geometry.location,
                                 options:{
-                                    icon: 'http://themesflat.com/html/iseo/images/icon/marker.png'
+                                    // icon: 'http://themesflat.com/html/iseo/images/icon/marker.png'
                                 }
                             }
                         });
