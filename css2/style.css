@@ -1,0 +1,24 @@
+body{
+    background-color: white;
+}
+
+.mapdiv{
+    width:60%;
+    margin: auto;
+}
+
+.mapdiv path {
+    fill: rgb(187, 187, 187);
+    stroke: white;
+    stroke-width:4px;
+    transition: fill 0.3s;
+}
+
+/*.mapdiv :hover {
+    fill:rgb(255, 103, 92);
+}*/
+
+
+.mapdiv :kandy {
+    fill:red;
+}
