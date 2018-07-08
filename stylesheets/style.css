@@ -490,7 +490,7 @@ input[type="color"],
 .flat-information > li > a {
 	display: inline-block;	
 	color: #fff;	
-	font-size: 12px;
+	font-size: 17px;
 	line-height: 43px;
 	padding: 2px 0 0 17px;
 }
@@ -2145,6 +2145,7 @@ article .comment.style1 {
 /* widget-subscribe-us */
 .widget-subscribe-us p {
 	margin-bottom: 30px;
+	font-size: 20px;
 }
 
 .widget-subscribe-us #subscribe-form {
