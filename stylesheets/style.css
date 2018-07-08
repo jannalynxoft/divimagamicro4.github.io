@@ -435,7 +435,8 @@ input[type="color"],
 /* Top 
 -----------------------------------------------------------------*/
 .top {
-    background-color: #3a526a;
+	/* background-color: #3a526a; */
+	background-color: #085e9d;
 }
 
 .top .flat-information,
@@ -1988,7 +1989,7 @@ article .comment.style1 {
 /* Footer
 -------------------------------------------------------------- */
 .footer {
-	background-color: #222;
+	background-color: #154b6d;
 	padding: 85px 0 67px;
 	color: #fff;
 }
@@ -2017,13 +2018,13 @@ article .comment.style1 {
 }
 
 .footer-logo .title {
-	font-size: 15px;
+	font-size: 18px;
 	color: #fff;
 	margin-bottom: 15px;
 }
 
 .footer-logo p {
-	font-size: 13px;
+	font-size: 18px;
 	color: #888;
 	margin-bottom: 24px;
 }
@@ -2063,7 +2064,7 @@ article .comment.style1 {
 .widget-follow-us .follow-us li a {
 	position: relative;
 	font-family: "Poppins", sans-serif;
-	font-size: 13px;
+	font-size: 20px;
 	color: #888;
 	padding-left: 32px;
 }
@@ -2123,7 +2124,7 @@ article .comment.style1 {
 .widget-our-services .our_services li a {
 	position: relative;
 	font-family: "Poppins", sans-serif;
-	font-size: 13px;
+	font-size: 20px;
 	color: #888;
 	padding-left: 15px;
 }
@@ -2263,7 +2264,7 @@ article .comment.style1 {
 /* Bottom
 -------------------------------------------------------------- */
 .bottom {
-	background: #1b1b1b;
+	background: #0a4066;
 	color: #888;
 	padding: 32px 0 28px;
 }
