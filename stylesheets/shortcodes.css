@@ -524,7 +524,7 @@ label.error {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: #3a526a;
+    /* background-color: #3a526a; */
     content: '';
     z-index: 1; 
     box-sizing: border-box;
@@ -1373,6 +1373,15 @@ label.error {
     margin-bottom: 23px;
 }
 
+/* .case-single .content-post .list-post1 .title:before {
+    position: absolute;
+    top: 2px;
+    left: -15px;
+    font-family: "FontAwesome";
+    content: "\f111";
+    font-size: 6px;
+    color: red;
+}
 .case-single .content-post .list-post .title:before {
     position: absolute;
     top: 2px;
@@ -1381,7 +1390,7 @@ label.error {
     content: "\f111";
     font-size: 6px;
     color: #18ba60;
-}
+} */
 
 /* case-single 2 */
 .case-single.v2 .feature-post iframe {
@@ -1782,7 +1791,7 @@ label.error {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: #3a526a;
+    /* background-color: #3a526a; */
     content: '';
     z-index: 1; 
     box-sizing: border-box;
